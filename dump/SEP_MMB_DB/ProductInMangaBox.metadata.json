@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"}],"uuid":"421ffb89a43b4ff99fb96722e5e7ec38","collectionName":"ProductInMangaBox","type":"collection"}

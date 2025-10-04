@@ -1,0 +1,3 @@
+mongorestore --uri="{connection string}" dump/
+
+cài mongotool và chạy lệnh này ở ternimal (đứng tại folder này)
